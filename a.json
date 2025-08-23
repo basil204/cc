@@ -1,0 +1,123 @@
+{
+    "ret": "0",
+    "errmsg": "success",
+    "svr_time": 1755879127,
+    "log_id": "202508230012073B8816A4515A87404137",
+    "data": {
+        "last_pull_time": 1755792727,
+        "next_cursor": 1755847923,
+        "has_more": false,
+        "notice_list": [
+            {
+                "id": "7541309362523963655",
+                "create_time": 1755847923,
+                "update_time": 1755847923,
+                "to_uid": "7538092781988152336",
+                "from_uid": "6873001097452946434",
+                "notice_type": 2,
+                "content": {
+                    "sub_type": 2008,
+                    "title": "🎉 Updates to the Pro plan",
+                    "text": "• We hope you're enjoying all that CapCut has to offer! CapCut is updating our subscription plans and pricing to better serve the diverse needs of our creators.\n• You can still enjoy the upgraded Pro plan until your current subscription ends, and we're delighted to offer you an extension to 2025-09-21 for free so you can fully explore all the new features.\n• The new pricing will apply when you renew the subscription.",
+                    "file_id": "0",
+                    "file_type": 0,
+                    "share_name": "",
+                    "share_id": "",
+                    "cover": "",
+                    "href": "https://www.capcut.com/my-edit?modal=subscribe",
+                    "draft_id": "",
+                    "cluster_id": "",
+                    "sub_share_id": "",
+                    "workspace_application_id": "0",
+                    "detail": {
+                        "comment_id": "0",
+                        "reply_to_user": {
+                            "user_id": "7538092781988152336",
+                            "nick_name": "user2713468043903",
+                            "avatar_urls": {
+                                "avatar_url_large": "https://sf16-passport-sg.ibytedtos.com/obj/user-avatar-alisg/a617ecb7df51ce84ab850845995ed79d.png",
+                                "avatar_url_medium": "https://sf16-passport-sg.ibytedtos.com/obj/user-avatar-alisg/a617ecb7df51ce84ab850845995ed79d.png",
+                                "avatar_url_small": "https://sf16-passport-sg.ibytedtos.com/obj/user-avatar-alisg/a617ecb7df51ce84ab850845995ed79d.png"
+                            }
+                        },
+                        "comment_user": {
+                            "user_id": "6873001097452946434",
+                            "nick_name": "Capcut",
+                            "avatar_urls": {
+                                "avatar_url_large": "https://sf16-passport-sg.ibytedtos.com/img/user-avatar-alisg/66944f59a7a5c8ab5ba7077230873b84~300x300.image",
+                                "avatar_url_medium": "https://sf16-passport-sg.ibytedtos.com/img/user-avatar-alisg/66944f59a7a5c8ab5ba7077230873b84~300x300.image",
+                                "avatar_url_small": "https://sf16-passport-sg.ibytedtos.com/img/user-avatar-alisg/66944f59a7a5c8ab5ba7077230873b84~300x300.image"
+                            }
+                        },
+                        "comment_content": ""
+                    },
+                    "title_starling_key": "",
+                    "title_starling_place_holders": null,
+                    "content_starling_key": "",
+                    "content_starling_place_holders": null,
+                    "starling_project_id": 0,
+                    "starling_namespace_id": 0,
+                    "application_id": "0",
+                    "application_status": 0,
+                    "task_id": ""
+                },
+                "status": false
+            },
+            {
+                "id": "7541309345079263760",
+                "create_time": 1755847923,
+                "update_time": 1755847923,
+                "to_uid": "7538092781988152336",
+                "from_uid": "6873001097452946434",
+                "notice_type": 2,
+                "content": {
+                    "sub_type": 2008,
+                    "title": "Thông tin cập nhật quan trọng: tính năng \"chia sẻ lên Nhóm Facebook\" đã ngừng hoạt động",
+                    "text": "Chúng tôi xin thông báo với bạn về một thay đổi gần đây sẽ ảnh hưởng đến khả năng đăng bài lên Nhóm Facebook bằng CapCut. Meta đã quyết định ngừng cung cấp API Nhóm Facebook, tức là bạn không còn có thể tự động chia sẻ lên Nhóm Facebook thông qua các nền tảng bên thứ ba như CapCut.\nDo vậy, chúng tôi đã ngừng cung cấp tính năng chia sẻ lên Nhóm Facebook. Bạn có thể tải video xuống thiết bị của mình và chia sẻ lên Nhóm Facebook bằng cách thủ công.\nNếu bạn có bất kỳ thắc mắc nào hoặc cần được hỗ trợ, vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi.\nCảm ơn bạn đã thông cảm.",
+                    "file_id": "0",
+                    "file_type": 0,
+                    "share_name": "",
+                    "share_id": "",
+                    "cover": "",
+                    "href": "https://developers.facebook.com/blog/post/2024/01/23/introducing-facebook-graph-and-marketing-api-v19/?utm_campaign=Facebook%20Groups%20API%20deprecation\u0026utm_content=Facebook%20Groups%20API\u0026utm_medium=email_action\u0026utm_source=customer.io",
+                    "draft_id": "",
+                    "cluster_id": "",
+                    "sub_share_id": "",
+                    "workspace_application_id": "0",
+                    "detail": {
+                        "comment_id": "0",
+                        "reply_to_user": {
+                            "user_id": "7538092781988152336",
+                            "nick_name": "user2713468043903",
+                            "avatar_urls": {
+                                "avatar_url_large": "https://sf16-passport-sg.ibytedtos.com/obj/user-avatar-alisg/a617ecb7df51ce84ab850845995ed79d.png",
+                                "avatar_url_medium": "https://sf16-passport-sg.ibytedtos.com/obj/user-avatar-alisg/a617ecb7df51ce84ab850845995ed79d.png",
+                                "avatar_url_small": "https://sf16-passport-sg.ibytedtos.com/obj/user-avatar-alisg/a617ecb7df51ce84ab850845995ed79d.png"
+                            }
+                        },
+                        "comment_user": {
+                            "user_id": "6873001097452946434",
+                            "nick_name": "Capcut",
+                            "avatar_urls": {
+                                "avatar_url_large": "https://sf16-passport-sg.ibytedtos.com/img/user-avatar-alisg/66944f59a7a5c8ab5ba7077230873b84~300x300.image",
+                                "avatar_url_medium": "https://sf16-passport-sg.ibytedtos.com/img/user-avatar-alisg/66944f59a7a5c8ab5ba7077230873b84~300x300.image",
+                                "avatar_url_small": "https://sf16-passport-sg.ibytedtos.com/img/user-avatar-alisg/66944f59a7a5c8ab5ba7077230873b84~300x300.image"
+                            }
+                        },
+                        "comment_content": ""
+                    },
+                    "title_starling_key": "web_schedule_inbox_title_update_on_facebook_group",
+                    "title_starling_place_holders": null,
+                    "content_starling_key": "web_schedule_inbox_desc_update_on_facebook_group",
+                    "content_starling_place_holders": {},
+                    "starling_project_id": 24983,
+                    "starling_namespace_id": 89416,
+                    "application_id": "0",
+                    "application_status": 0,
+                    "task_id": ""
+                },
+                "status": false
+            }
+        ]
+    }
+}
